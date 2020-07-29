@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  RxSwiftPractices
+
+  Created by Adriano Song on 4/2/20.
+  
+*/
+
+"hello.world" = "Hello world!";
